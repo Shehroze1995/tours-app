@@ -1,2 +1,2 @@
 # Tours-app using React :v:
-<img src="./src/assets/images/Thumbnail.pdf" alt="app-thumbnail">
+<img src="src/assets/images/thumbnail.png" alt="app-thumbnail"/>
